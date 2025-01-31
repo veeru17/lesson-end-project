@@ -5,4 +5,4 @@ jobs:
   Basic-Workflow:
      runs-on:ubuntu-latest
      steps:
-      - run:echo "job is executing as part of Basic Workflow"
+      - run: echo "Job is executing as part of Basic Workflow"
